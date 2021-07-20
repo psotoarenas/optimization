@@ -10,5 +10,5 @@ setup(
     author='Paola Soto',
     author_email='paola.soto@udea.edu.co',
     description='Repositorio para el curso de Técnicas de Optimización',
-    install_requires = ["numpy", "scipy", "jupyter", "matplotlib", "ortools", "wand", "folium"]
+    install_requires=["numpy", "scipy", "jupyter", "matplotlib", "ortools", "wand", "folium"]
 )
